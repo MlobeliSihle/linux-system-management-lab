@@ -1,0 +1,35 @@
+===== SYSTEM INFORMATION =====
+ Static hostname: DESKTOP-BFF7UUP
+       Icon name: computer-container
+         Chassis: container ☐
+      Machine ID: ea71bd20dab14e27a18c7690f1480e67
+         Boot ID: 2e6264c7cb844a359eec993e624ac141
+  Virtualization: wsl
+Operating System: Ubuntu 24.04.3 LTS
+          Kernel: Linux 6.6.87.2-microsoft-standard-WSL2
+    Architecture: x86-64
+
+===== DISK USAGE =====
+Filesystem      Size  Used Avail Use% Mounted on
+none            931M     0  931M   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            931M  4.0K  931M   1% /mnt/wsl
+drivers         931G   91G  841G  10% /usr/lib/wsl/drivers
+/dev/sdd       1007G  2.1G  954G   1% /
+none            931M   80K  931M   1% /mnt/wslg
+none            931M     0  931M   0% /usr/lib/wsl/lib
+rootfs          926M  2.7M  923M   1% /init
+none            931M  476K  930M   1% /run
+none            931M     0  931M   0% /run/lock
+none            931M     0  931M   0% /run/shm
+none            931M   76K  931M   1% /mnt/wslg/versions.txt
+none            931M   76K  931M   1% /mnt/wslg/doc
+C:\             931G   91G  841G  10% /mnt/c
+tmpfs           187M   20K  187M   1% /run/user/1000
+
+===== MEMORY USAGE =====
+               total        used        free      shared  buff/cache   available
+Mem:           1.8Gi       349Mi       1.4Gi       3.5Mi       107Mi       1.5Gi
+Swap:          1.0Gi          0B       1.0Gi
+
+===== CURRENT USERS =====
+sihlebluey05 pts/1        2025-10-26 13:00

@@ -1,0 +1,9 @@
+#Day 2 - Networking & User Management
+ Date: 27-10-2025
+
+Starting Day 2 of my Linux system management lab.
+
+TODAYS FOCUS:
+- Networking commands
+- IPs
+- Managing users/groups

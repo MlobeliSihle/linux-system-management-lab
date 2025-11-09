@@ -1,0 +1,14 @@
+- local IP:  
+- Local IP: 172.24.18.148 
+- Gateway: 172.24.16.1
+- Ping google.com: OK
+- Nmap scan saved to day2_nmap_scan.txt
+- Created users: intern_test, guest_test
+- Group 'interns' created and intern_test added
+- Created reports dir with group 'interns' and setgid (permissions 2750)
+- Local IP: 172.24.18.148 
+- Gateway: 172.24.16.1
+- Ping google.com: OK
+- Saved listening ports to network_scan.log
+- Nmap scan saved to day2_nmap_scan.txt
+- Verified intern_test access to reports (via sudo -u)

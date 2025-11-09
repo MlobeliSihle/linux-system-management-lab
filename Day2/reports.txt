@@ -1,0 +1,6 @@
+Day 2 - Networking & user Management
+Local IP: (see notes.md)
+Gateway: (see notes.md)
+Nmap scan saved: day2_nmap_scan.txt
+User created: intern_test, guest_test
+Group: interns (interns_test added)

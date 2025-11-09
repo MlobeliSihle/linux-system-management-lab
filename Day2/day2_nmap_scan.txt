@@ -1,0 +1,7 @@
+# Nmap 7.94SVN scan initiated Sun Nov  9 12:12:23 2025 as: nmap -sn -oN day2_nmap_scan.txt 172.24.16.0/20
+Nmap scan report for DESKTOP-BFF7UUP.mshome.net (172.24.16.1)
+Host is up (0.0013s latency).
+MAC Address: 00:15:5D:34:51:47 (Microsoft)
+Nmap scan report for 172.24.18.148
+Host is up.
+# Nmap done at Sun Nov  9 12:13:09 2025 -- 4096 IP addresses (2 hosts up) scanned in 46.20 seconds

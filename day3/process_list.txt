@@ -1,0 +1,25 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.2  0.6  21688 12664 ?        Ss   12:00   0:28 /sbin/init
+root           2  0.0  0.0   3072  1792 ?        Sl   12:00   0:00 /init
+root           6  0.0  0.0   3072  1792 ?        Sl   12:00   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root         122  0.0  0.0   3080   896 ?        Ss   12:00   0:00 /init
+root         123  0.0  0.0   3096  1024 ?        S    12:00   0:02 /init
+sihlebl+     124  0.0  0.2   6204  5120 pts/0    Ss   12:00   0:01 -bash
+root         125  0.0  0.2   6692  4352 pts/1    Ss   12:00   0:00 /bin/login -f
+root         132  1.8  0.8  66828 15700 ?        S<s  12:00   3:19 /usr/lib/systemd/systemd-journald
+root         201  0.0  0.3  25028  6272 ?        Ss   12:00   0:02 /usr/lib/systemd/systemd-udevd
+systemd+     264  0.0  0.6  21456 12544 ?        Ss   12:00   0:01 /usr/lib/systemd/systemd-resolved
+systemd+     265  0.0  0.4  91024  7680 ?        Ssl  12:00   0:03 /usr/lib/systemd/systemd-timesyncd
+root         281  0.0  0.1   4236  2560 ?        Ss   12:00   0:00 /usr/sbin/cron -f -P
+message+     282  0.1  0.2   9628  5120 ?        Ss   12:00   0:11 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         293  0.0  0.4  17964  8448 ?        Ss   12:00   0:05 /usr/lib/systemd/systemd-logind
+root         296  0.0  0.7 1681852 14976 ?       Ssl  12:00   0:03 /usr/libexec/wsl-pro-service -vv
+syslog       299  0.0  0.3 222508  5760 ?        Ssl  12:00   0:01 /usr/sbin/rsyslogd -n -iNONE
+root         306  0.0  0.1   3160  1920 hvc0     Ss+  12:00   0:00 /sbin/agetty -o -p -- \u --noclear --keep-baud - 115200,38400,9600 vt220
+root         316  0.0  0.1   3116  1920 tty1     Ss+  12:00   0:00 /sbin/agetty -o -p -- \u --noclear - linux
+root         334  0.0  1.1 107028 22528 ?        Ssl  12:00   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+sihlebl+     515  0.0  0.5  20316 11008 ?        Ss   12:00   0:02 /usr/lib/systemd/systemd --user
+sihlebl+     521  0.0  0.1  21152  3516 ?        S    12:00   0:00 (sd-pam)
+sihlebl+     548  0.0  0.2   6072  4992 pts/1    S+   12:00   0:00 -bash
+polkitd     1148  0.0  0.4 308164  7808 ?        Ssl  12:42   0:01 /usr/lib/polkit-1/polkitd --no-debug
+sihlebl+    3018  125  0.2   8280  4096 pts/0    R+   14:56   0:00 ps aux

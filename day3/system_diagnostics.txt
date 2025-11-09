@@ -1,0 +1,40 @@
+System DIagnostics Report
+__________________________
+Sun Nov  9 15:06:37 SAST 2025
+ 15:07:07 up  3:07,  1 user,  load average: 0.09, 0.03, 0.01
+               total        used        free      shared  buff/cache   available
+Mem:           1.8Gi       346Mi       1.4Gi       3.5Mi       116Mi       1.5Gi
+Swap:          1.0Gi          0B       1.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+none            931M     0  931M   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            931M  4.0K  931M   1% /mnt/wsl
+drivers         931G   86G  845G  10% /usr/lib/wsl/drivers
+/dev/sdd       1007G  2.3G  954G   1% /
+none            931M   84K  931M   1% /mnt/wslg
+none            931M     0  931M   0% /usr/lib/wsl/lib
+rootfs          926M  2.7M  923M   1% /init
+none            931M  476K  930M   1% /run
+none            931M     0  931M   0% /run/lock
+none            931M     0  931M   0% /run/shm
+none            931M   76K  931M   1% /mnt/wslg/versions.txt
+none            931M   76K  931M   1% /mnt/wslg/doc
+C:\             931G   86G  845G  10% /mnt/c
+tmpfs           187M   20K  187M   1% /run/user/1000
+top - 15:08:50 up  3:08,  1 user,  load average: 0.01, 0.02, 0.00
+Tasks:  25 total,   1 running,  24 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.1 us, 12.5 sy,  0.0 ni, 78.1 id,  3.1 wa,  0.0 hi,  3.1 si,  0.0 st 
+MiB Mem :   1860.8 total,   1472.6 free,    348.8 used,    116.8 buff/cache     
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   1512.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3036 sihlebl+  20   0    9284   5120   3072 R   7.7   0.3   0:00.09 top
+      1 root      20   0   21688  12664   9336 S   0.0   0.7   0:28.17 systemd
+      2 root      20   0    3072   1792   1792 S   0.0   0.1   0:00.08 init-sy+
+      6 root      20   0    3072   1792   1792 S   0.0   0.1   0:00.00 init
+    122 root      20   0    3080    896    896 S   0.0   0.0   0:00.00 Session+
+    123 root      20   0    3096   1024   1024 S   0.0   0.1   0:02.50 Relay(1+
+    124 sihlebl+  20   0    6204   5120   3456 S   0.0   0.3   0:02.18 bash
+    125 root      20   0    6692   4352   3712 S   0.0   0.2   0:00.10 login
+
+_________________________
+Reflection: Today i learned to monitor and analyze whats happening inside a system in real time. Commands like top, ps, and grep helped me track running processes, while uptime and free showed overall system performance. It's cool seeing how these tools give real control and visibility over what is actually running under the hood.

@@ -1,7 +1,7 @@
 # Linux System Management Lab
 
 ### Overview
-a week hands on project Linux system management - creating users, setting permissions, automating backups, and logging tasks
+a hands on project Linux system management - creating users, setting permissions, automating backups, and logging tasks
 
 ### Topics Covered
 - File and directory management
@@ -20,13 +20,13 @@ a week hands on project Linux system management - creating users, setting permis
 - system.log
 - summary.txt
 
-### Daily Progress Structure
+### Progress Structure
 
-- **Day 1:** Create folder structure
-- **Day 2:** Added users
-- **Day 3:** Applied permissions
-- **Day 4:** Created backup system
-- **Day 5:** Automated backup script
-- **Day 6:** Checked logs and permissions
-- **Day 7:** Documented everything
+- Create folder structure
+- Added users
+- Applied permissions
+- Created backup system
+- Automated backup script
+- Checked logs and permissions
+- Documented everything
 

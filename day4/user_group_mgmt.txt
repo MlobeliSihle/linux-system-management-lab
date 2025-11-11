@@ -1,0 +1,6 @@
+Day 4: User and Group Management
+____________________________________
+Created group: interns
+Created user: alex (member of interns)
+Configured shared folder with restricted group access.
+

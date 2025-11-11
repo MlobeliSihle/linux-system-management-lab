@@ -1,0 +1,8 @@
+Day 5: Process Management and System Monitoring
+__________________________________________
+
+Listed acive processes using ps and top commands.
+Identified and safely terminated a test process using kill.
+Used grep tp locate specific processes
+_________________________________________
+Reflection: Practiced how to monitor and managed system processes effectively in Linux

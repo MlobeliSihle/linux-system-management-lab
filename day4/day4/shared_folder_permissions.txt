@@ -1,0 +1,1 @@
+drwxrwx--- 2 sihlebluey05 day4group 4096 Dec 10 20:38 shared_folder

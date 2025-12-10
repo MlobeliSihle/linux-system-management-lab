@@ -1,0 +1,11 @@
+Day 5: Process and Service Management
+
+Files content:
+
+Full list of system processes
+searched process output
+PID selected for testing 
+Safe dummy process PID
+kill command result (safe)
+Active system service
+Service status output

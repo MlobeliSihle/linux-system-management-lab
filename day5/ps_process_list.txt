@@ -1,0 +1,23 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.3  0.6  21536 12524 ?        Ss   18:07   0:36 /sbin/init
+root           2  0.0  0.1   3072  1920 ?        Sl   18:07   0:00 /init
+root           6  0.0  0.0   3072  1792 ?        Sl   18:07   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root         110  0.0  0.0   3080   896 ?        Ss   18:07   0:00 /init
+root         111  0.0  0.0   3096  1024 ?        S    18:07   0:01 /init
+sihlebl+     112  0.0  0.2   6072  4992 pts/0    Ss   18:07   0:01 -bash
+root         113  0.0  0.2   6660  4352 pts/1    Ss   18:07   0:00 /bin/login -f
+root         173  2.6  0.8  66756 15600 ?        S<s  18:07   4:24 /usr/lib/systemd/systemd-journald
+sihlebl+     213  0.0  0.2   6072  4864 pts/1    S+   18:07   0:00 -bash
+root         231  0.0  0.3  25268  6400 ?        Ss   18:07   0:01 /usr/lib/systemd/systemd-udevd
+systemd+     340  0.0  0.6  21456 12800 ?        Ss   18:08   0:02 /usr/lib/systemd/systemd-resolved
+systemd+     341  0.0  0.4  91024  7680 ?        Ssl  18:08   0:05 /usr/lib/systemd/systemd-timesyncd
+root         347  0.0  0.1   4236  2560 ?        Ss   18:08   0:00 /usr/sbin/cron -f -P
+message+     348  0.1  0.2   9644  5120 ?        Ss   18:08   0:16 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         361  0.0  0.4  17596  7808 ?        Ss   18:08   0:07 /usr/lib/systemd/systemd-logind
+root         365  0.0  0.7 1681852 14976 ?       Ssl  18:08   0:03 /usr/libexec/wsl-pro-service -vv
+root         376  0.0  0.1   3160  1920 hvc0     Ss+  18:08   0:00 /sbin/agetty -o -p -- \u --noclear --keep-baud - 115200,38400,9600 vt220
+syslog       381  0.0  0.2 222508  5632 ?        Ssl  18:08   0:02 /usr/sbin/rsyslogd -n -iNONE
+root         388  0.0  0.1   3116  1920 tty1     Ss+  18:08   0:00 /sbin/agetty -o -p -- \u --noclear - linux
+root         402  0.0  1.1 107028 22784 ?        Ssl  18:08   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+polkitd      999  0.0  0.4 308164  7808 ?        Ssl  18:20   0:01 /usr/lib/polkit-1/polkitd --no-debug
+sihlebl+    3405  206  0.2   8280  4096 pts/0    R+   20:55   0:00 ps aux

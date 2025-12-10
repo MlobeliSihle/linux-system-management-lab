@@ -1,0 +1,7 @@
+root         173  2.6  0.8  66756 15612 ?        S<s  18:07   4:26 /usr/lib/systemd/systemd-journald
+root         231  0.0  0.3  25268  6400 ?        Ss   18:07   0:01 /usr/lib/systemd/systemd-udevd
+systemd+     340  0.0  0.6  21456 12800 ?        Ss   18:07   0:02 /usr/lib/systemd/systemd-resolved
+systemd+     341  0.0  0.4  91024  7680 ?        Ssl  18:07   0:05 /usr/lib/systemd/systemd-timesyncd
+message+     348  0.1  0.2   9644  5120 ?        Ss   18:07   0:16 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         361  0.0  0.4  17596  7808 ?        Ss   18:07   0:07 /usr/lib/systemd/systemd-logind
+sihlebl+    3421 38.7  0.1   4088  1920 pts/0    S+   20:55   0:00 grep --color=auto system

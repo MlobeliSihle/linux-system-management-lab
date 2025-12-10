@@ -1,0 +1,12 @@
+Day 6: System Monitoring & Logging 
+
+Files included in this folder:
+- top_output.txt		~ Real output from top
+- memory_usage.txt		~ Memory stats
+- disk_usage.txt		~ Disk usage
+- logs_recent.txt		~ Last 50 system logs
+- logs_warnings.txt		~ System warnings filtered by priority
+- network_connections.txt	~ Active network listening and connections
+
+Reflection:
+Practiced how to capture and interpret system resource usage and read logs. This helps in troubleshooting, performance checks, and security monitoring

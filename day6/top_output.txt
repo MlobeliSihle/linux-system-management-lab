@@ -1,0 +1,29 @@
+top - 18:42:55 up 35 min,  0 user,  load average: 1.07, 0.83, 0.60
+Tasks:  22 total,   1 running,  21 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  6.6 sy,  0.0 ni, 69.7 id, 22.4 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   1860.8 total,   1190.2 free,    339.4 used,    411.9 buff/cache     
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   1521.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   21536  12524   9324 S   0.0   0.7   0:08.19 systemd
+      2 root      20   0    3072   1920   1792 S   0.0   0.1   0:00.16 init-sy+
+      6 root      20   0    3072   1792   1792 S   0.0   0.1   0:00.00 init
+    110 root      20   0    3080    896    896 S   0.0   0.0   0:00.00 Session+
+    111 root      20   0    3096   1024   1024 S   0.0   0.1   0:00.08 Relay(1+
+    112 sihlebl+  20   0    6072   4992   3456 S   0.0   0.3   0:00.27 bash
+    113 root      20   0    6660   4352   3712 S   0.0   0.2   0:00.07 login
+    173 root      19  -1   50364  15544  14392 S   0.0   0.8   0:28.75 systemd+
+    213 sihlebl+  20   0    6072   4864   3328 S   0.0   0.3   0:00.33 bash
+    231 root      20   0   25268   6400   4864 S   0.0   0.3   0:01.17 systemd+
+    340 systemd+  20   0   21456  12800  10624 S   0.0   0.7   0:00.82 systemd+
+    341 systemd+  20   0   91024   7680   6784 S   0.0   0.4   0:01.04 systemd+
+    347 root      20   0    4236   2560   2432 S   0.0   0.1   0:00.07 cron
+    348 message+  20   0    9644   5120   4480 S   0.0   0.3   0:02.25 dbus-da+
+    361 root      20   0   17596   7808   6912 S   0.0   0.4   0:01.38 systemd+
+    365 root      20   0 1681852  14336  12416 S   0.0   0.8   0:00.95 wsl-pro+
+    376 root      20   0    3160   1920   1792 S   0.0   0.1   0:00.26 agetty
+    381 syslog    20   0  222508   5632   4480 S   0.0   0.3   0:00.57 rsyslogd
+    388 root      20   0    3116   1920   1792 S   0.0   0.1   0:00.06 agetty
+    402 root      20   0  107028  22784  13440 S   0.0   1.2   0:00.62 unatten+
+    999 polkitd   20   0  308164   7808   7040 S   0.0   0.4   0:00.46 polkitd
+   1399 sihlebl+  20   0    9284   5120   3072 R   0.0   0.3   0:00.20 top

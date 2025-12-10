@@ -1,0 +1,50 @@
+Dec 10 18:50:41 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:16 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:50:46 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:21 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:50:51 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:26 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:50:57 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:50:58 DESKTOP-BFF7UUP wsl-pro-service[365]: INFO Daemon: connecting to Windows Agent
+Dec 10 18:50:58 DESKTOP-BFF7UUP wsl-pro-service[365]: DEBUG Updated systemd status to "Connecting"
+Dec 10 18:50:58 DESKTOP-BFF7UUP wsl-pro-service[365]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/187/.ubuntupro/.address": open /mnt/c/Users/187/.ubuntupro/.address: no such file or directory
+Dec 10 18:50:58 DESKTOP-BFF7UUP wsl-pro-service[365]: INFO Reconnecting to Windows host in 60 seconds
+Dec 10 18:50:58 DESKTOP-BFF7UUP wsl-pro-service[365]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Dec 10 18:51:31 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:02 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:36 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:07 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:41 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:12 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:47 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:17 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:18 DESKTOP-BFF7UUP systemd-journald[173]: Time jumped backwards, rotating. (Dropped 9 similar message(s))
+Dec 10 18:51:52 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:22 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:23 DESKTOP-BFF7UUP systemd-journald[173]: Time jumped backwards, rotating.
+Dec 10 18:51:57 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:27 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:28 DESKTOP-BFF7UUP systemd-journald[173]: Time jumped backwards, rotating.
+Dec 10 18:52:02 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:32 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:52:07 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:37 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:52:12 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:42 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:52:17 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:51:47 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:52:22 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:52:28 DESKTOP-BFF7UUP wsl-pro-service[365]: INFO Daemon: connecting to Windows Agent
+Dec 10 18:52:28 DESKTOP-BFF7UUP wsl-pro-service[365]: DEBUG Updated systemd status to "Connecting"
+Dec 10 18:52:28 DESKTOP-BFF7UUP wsl-pro-service[365]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/187/.ubuntupro/.address": open /mnt/c/Users/187/.ubuntupro/.address: no such file or directory
+Dec 10 18:52:28 DESKTOP-BFF7UUP wsl-pro-service[365]: INFO Reconnecting to Windows host in 60 seconds
+Dec 10 18:52:28 DESKTOP-BFF7UUP wsl-pro-service[365]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Dec 10 18:52:07 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:52:42 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:52:12 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:52:47 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:52:47 DESKTOP-BFF7UUP kernel: mini_init (162): drop_caches: 1
+Dec 10 18:52:32 DESKTOP-BFF7UUP systemd-resolved[340]: Clock change detected. Flushing caches.
+Dec 10 18:52:34 DESKTOP-BFF7UUP systemd-journald[173]: Time jumped backwards, rotating. (Dropped 6 similar message(s))
+Dec 10 18:52:35 DESKTOP-BFF7UUP sudo[1543]: sihlebluey05 : TTY=pts/0 ; PWD=/home/sihlebluey05/linux-system-management-lab/day6 ; USER=root ; COMMAND=/usr/bin/journalctl -n 50
+Dec 10 18:52:35 DESKTOP-BFF7UUP sudo[1543]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)

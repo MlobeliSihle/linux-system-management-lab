@@ -34,21 +34,21 @@ The goal was to create a fully functional, secured, and monitored Linux lab simi
 
 ### Tools and Technologies Used
 
-Category                                  Tools/Commands
-__________________________________________________________________
-User & permission                         useradd, groupadd,
-management                                chmod, chown, umask
-__________________________________________________________________
-File & System                             ls, cp, mv, cat, diff, 
-Operations                                find, sha256sum
-__________________________________________________________________
-Backup Automation                         Bash scripting, cron,
-                                          archive utilities
-__________________________________________________________________
-Monitoring & Logging                      /var/log, custom log
-                                          files, integrity reports
-__________________________________________________________________
-Security                                  Permissions hardening,
-                                          user restrictions
+Category                               |   Tools/Commands
+_______________________________________|___________________________
+User & permission                      |   useradd, groupadd,
+management                             |   chmod, chown, umask
+_______________________________________|___________________________
+File & System                          |   ls, cp, mv, cat, diff, 
+Operations                             |   find, sha256sum
+_______________________________________|___________________________
+Backup Automation                      |   Bash scripting, cron,
+                                       |   archive utilities
+_______________________________________|___________________________
+Monitoring & Logging                   |   /var/log, custom log
+                                       |   files, integrity reports
+_______________________________________|___________________________
+Security                               |   Permissions hardening,
+                                       |   user restrictions
 
 

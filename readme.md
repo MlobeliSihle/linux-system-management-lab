@@ -35,19 +35,19 @@ The goal was to create a fully functional, secured, and monitored Linux lab simi
 ### Tools and Technologies Used
 
 Category                               |   Tools/Commands
-_______________________________________|___________________________
+___________________________________________________________________
 User & permission                      |   useradd, groupadd,
 management                             |   chmod, chown, umask
-_______________________________________|___________________________
+___________________________________________________________________
 File & System                          |   ls, cp, mv, cat, diff, 
 Operations                             |   find, sha256sum
-_______________________________________|___________________________
+___________________________________________________________________
 Backup Automation                      |   Bash scripting, cron,
                                        |   archive utilities
-_______________________________________|___________________________
+___________________________________________________________________
 Monitoring & Logging                   |   /var/log, custom log
                                        |   files, integrity reports
-_______________________________________|___________________________
+___________________________________________________________________
 Security                               |   Permissions hardening,
                                        |   user restrictions
 

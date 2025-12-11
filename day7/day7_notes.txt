@@ -1,0 +1,10 @@
+Day 7: File Integrity Monitoring
+
+Files in this directory:
+- integrity_test.txt
+- file_hash_initial.txt		~ Original SHA256 fingerprint
+- file_hash_modified.txt	~ New fingerprint after modification
+- hash_comparison.txt		~ Shows difference between hashes
+
+Reflection:
+Practiced how hashing can detect file tampering. By coparing the original and modified hashes, i confirmed that a file has been changed.
